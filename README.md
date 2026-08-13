@@ -1,42 +1,74 @@
-# Hola, soy Darwin Ganan 👋
+# 👋 Hola, soy Darwin Gañán
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🚀 Software Engineer Student & Backend Developer
-Estudiante de Ingeniería en Tecnologías de la Información en la **Universidad de las Fuerzas Armadas ESPE**. Actualmente trabajando en la creación de servicios reactivos y escalables.
-
----
-
-### 🛠️ Lo que estoy construyendo
-- 🔭 **AgroSmart:** Backend reactivo con IA para el sector agrícola.
-- ⚡ **MediTrack:** Gestión de citas médicas con Spring WebFlux.
-- 🤖 **IA Integration:** Implementación de LLMs con LangChain4j.
-
----
-
-### 📊 Estadísticas de Desarrollador
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAGA2020-CODE&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAGA2020-CODE&layout=compact&theme=radical" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+## 🚀 Sobre mí
+
+Soy estudiante de **Ingeniería en Tecnologías de la Información** en la **Universidad de las Fuerzas Armadas ESPE**.
+
+Apasionado por el desarrollo Backend con Java y Spring Boot, bases de datos PostgreSQL, APIs REST, programación reactiva e Inteligencia Artificial.
+
+Actualmente desarrollo proyectos académicos y profesionales enfocados en:
+
+- Backend con Spring Boot
+- Spring WebFlux
+- PostgreSQL
+- Docker
+- Git y GitHub
+- Arquitectura REST
+- LangChain4j
+- Java 21+
 
 ---
 
-### 🏆 Logros en GitHub
-<p align="left">
-  <a href="https://github.com/DAGA2020-CODE">
-    <img src="https://github-profile-trophy.vercel.app/?username=DAGA2020-CODE&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
+## 💼 Proyectos destacados
+
+### 🌱 AgroSmart
+Backend reactivo para comercialización agrícola utilizando Spring Boot, WebFlux y LangChain4j.
+
+### 🏥 MediTrack
+Sistema de gestión de citas médicas utilizando arquitectura reactiva.
+
+### 🔐 Help Desk
+Sistema de soporte técnico para gestión de incidencias tecnológicas.
 
 ---
 
-### 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darwin-ganan-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catiro1988@gmail.com)
+## 🛠 Tecnologías
+
+- Java
+- Spring Boot
+- Spring WebFlux
+- PostgreSQL
+- Maven
+- Git
+- GitHub
+- Docker
+- REST API
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📈 Actividad
+
+> Las estadísticas de GitHub se encuentran temporalmente deshabilitadas debido a una caída del servicio externo que las genera.
+
+---
+
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darwin_Gañán-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darwin-ganan-dev/)
+
+[![Gmail](https://img.shields.io/badge/Email-catiro1988@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:catiro1988@gmail.com)
+
+---
+
+⭐ Gracias por visitar mi perfil.
